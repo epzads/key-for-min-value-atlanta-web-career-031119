@@ -5,7 +5,7 @@ def key_for_min_value(name_hash)
 #hash = {:blake => 500, :ashley => 2, :adam => 1}
 
 lowvalue = 600000
-newkey = 0
+newkey = nil 
 
  
 name_hash.collect do |k,v|
