@@ -8,7 +8,7 @@ lowvalue = 600000
 newkey = 0
 
  
-hash.collect do |k,v|
+name_hash.collect do |k,v|
 
 
 
