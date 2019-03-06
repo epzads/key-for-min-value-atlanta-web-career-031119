@@ -21,5 +21,5 @@ hash.collect do |k,v|
 end 
 
 
-
+return newkey
 end
